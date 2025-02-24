@@ -27,7 +27,7 @@ Tic-Tac-Toe is a game in which one player draws X's and another player draws O's
 
 ## Grading Scheme / Rubric
 
-| ** Functional Correctness (behavior)                      |           |       |
+| ** Functional Correctness (behavior) **                   |           |       |
 |-----------------------------------------------------------|-----------|-------|
 | Program prompts user for name                             | 2 points  |       |
 | Program marks board where user requested                  | 5 points  |       |
