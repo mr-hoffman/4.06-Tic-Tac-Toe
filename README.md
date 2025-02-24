@@ -35,13 +35,13 @@ Tic-Tac-Toe is a game in which one player draws X's and another player draws O's
 | Program won’t overwrite value on board                    | 5 points  |       |
 | Program reports who won or if there is a tie              | 15 points |       |
 | Program ends after win, loss, or tie                      | 3 points  |       |
-| ** Subtotal **                                            | 35 points |       |
-| ** Technical Correctness **                               |           |       |
+|  ** Subtotal **                                           | 35 points |       |
+|  ** Technical Correctness **                              |           |       |
 | Correct use of game loop                                  | 5 points  |       |
 | Correctly indexes into lists of lists to store board      | 5 points  |       |
 | Correctly checks board for mark                           | 5 points  |       |
 | Checks for winners on all three horizontals and verticals | 20 points |       |
 | Checks for winners on both diagonals                      | 10 points |       |
-| ** Sub Total **                                           | 45 Points |       |
-| ** Project Total **                                       | 80 points |       |
+|  ** Sub Total **                                          | 45 Points |       |
+|  ** Project Total **                                      | 80 points |       |
 
